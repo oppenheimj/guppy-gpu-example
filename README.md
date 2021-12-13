@@ -1,5 +1,6 @@
 # guppy-gpu example
 
+This repository provides a minimum working example of the WebGPU rendering package [guppy-gpu](https://github.com/oppenheimj/guppy). The following example creates player/camera/controls which allows the uer to move around the empty 3D space and view a secondary player moving in circles.
 ## Setup
 
 Clone this repository
